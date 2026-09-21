@@ -1,7 +1,7 @@
 # Sistema_Biblioteca
 ## Desenvolvedor
 
-**Nome do grupo:** Jessia, Esther, Yasmin, Fernanda
+**Nome do grupo:**  Esther Correa, Yasmin Soares, Fernanda Jhulya, Jessia Fernandes  
 **Turma:** 2º Ano TEC — Desenvolvimento de Sistemas  
 **Instituição:** SENAI  
 **Ano:** 2026
@@ -25,5 +25,9 @@ Desenvolver uma plataforma centralizada e intuitiva para automatizar o controle 
 
 ## Instalação e USo
 
-O sistema é 100% web e não precisa de instalação complexa! Para utilizá-lo, siga os passos abaixo:Faça o download do arquivo principal disponível neste repositório.Dê um duplo clique no arquivo para abri-lo em qualquer navegador web (como Chrome, Edge ou Firefox).Pronto! O sistema já está pronto para uso.
+O sistema é 100% web e não precisa de instalação complexa! 
+-Para utilizá-lo, siga os passos abaixo:
+-Faça o download do arquivo principal disponível neste repositório.
+-Dê um duplo clique no arquivo para abri-lo em qualquer navegador web (como Chrome, Edge ou Firefox).
+-Pronto! O sistema já está pronto para uso.
 
